@@ -1,6 +1,6 @@
 {
-  "Rain": false,
-  "Snow": true,
+  "Rain": true,
+  "Snow": false,
   "Storm": false,
   "None": false
 }
